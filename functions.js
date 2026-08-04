@@ -6,3 +6,5 @@
 // console.log(b);
 let b = 24;
 console.log(b);
+
+console.log(b);
